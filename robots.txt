@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://giocagil-casino.it.com/sitemap.xml
